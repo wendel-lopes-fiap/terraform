@@ -1,1 +1,1 @@
-bucket_name="dev-us-east-2-buildrun-video-pipeline"
+bucket_name="dev-site-wendel"
