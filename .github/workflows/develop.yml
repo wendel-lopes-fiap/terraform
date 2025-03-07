@@ -15,6 +15,6 @@ jobs:
     with:
       environment: dev
       aws-assume-role-arn: "arn:aws:iam::140023394758:role/github-actions-wendel-lopes-fiap-pipeline"
-      aws-region: "us-east-1"
+      aws-region: "us-east-2"
       aws-statefile-s3-bucket: "site-wendel"
       aws-lock-dynamodb-table: "wendel-tabela"
