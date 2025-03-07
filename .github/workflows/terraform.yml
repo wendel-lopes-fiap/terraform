@@ -18,7 +18,7 @@ on:
       aws-lock-dynamodb-table:
         type: string
         required: true
-
+ 
 jobs:
   terraform:
     runs-on: ubuntu-latest
